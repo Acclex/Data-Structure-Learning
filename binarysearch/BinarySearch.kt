@@ -1,5 +1,3 @@
-package com.acclex.leetcodetopic.binarysearch
-
 /**
  * Created by Acclex on 2019/6/24
  * Copyright acclex804199558@gmail.com
